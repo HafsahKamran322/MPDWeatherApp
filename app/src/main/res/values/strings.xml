@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="large_text">
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et felis ut elit laoreet ultrices sit amet ut dolor. Sed volutpat orci at justo ornare, sed pulvinar nisl semper. Praesent eleifend convallis mauris nec rhoncus. Aliquam at nisi egestas, scelerisque metus a, eleifend orci. Nullam quis neque ac risus egestas viverra. Nullam interdum laoreet magna, a vestibulum ante semper molestie. Nullam erat lorem, sagittis tincidunt egestas ultrices, tincidunt nec massa. Quisque gravida mattis nisi, nec finibus felis efficitur at. Sed a mattis augue. Sed bibendum lobortis dolor, a euismod risus gravida non.
+
+Donec auctor ex augue. Proin auctor urna in purus efficitur, at rhoncus metus sollicitudin. Nam fringilla neque ipsum, ut pulvinar augue sagittis quis. Donec dapibus diam vel risus venenatis ullamcorper. In et tempor felis. Aliquam ac turpis eleifend, finibus magna eget, imperdiet velit. Vestibulum sit amet arcu augue. Aliquam erat volutpat. Maecenas eget mauris non felis pretium euismod vel in leo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec vel ipsum dui. Quisque sit amet faucibus dolor, vitae ullamcorper orci. Quisque pretium, ante et consectetur porta, elit elit fermentum orci, sed maximus enim massa sed ante. Quisque eu mattis purus. Phasellus tempor commodo mi.
+
+Proin sem quam, rutrum eu consectetur nec, sollicitudin ac lectus. Nulla sit amet risus sed risus lacinia malesuada. Suspendisse sagittis, nulla non auctor finibus, metus elit semper turpis, id congue orci nisl eu orci. Ut id tellus eu lectus placerat ultricies eu quis velit. Sed aliquet in eros nec maximus. Suspendisse ultrices nibh et elit dapibus vehicula. Suspendisse sodales felis vitae sem tempor, in cursus magna efficitur. Donec et lobortis augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis fringilla felis ipsum, ac ultrices elit semper eget.
+
+Donec euismod luctus efficitur. Curabitur id diam vel nulla pretium finibus a ac tortor. Quisque lacinia ultricies dolor et facilisis. Morbi orci mauris, ornare a nulla et, suscipit varius sem. Integer consequat vulputate elementum. Etiam non augue vel est aliquet venenatis. Maecenas semper lectus quis lacus consequat cursus. Nunc vulputate dictum quam, sit amet semper nulla. Vestibulum ultricies, eros consequat molestie lobortis, enim urna consequat neque, sed mattis tortor ipsum in est. Pellentesque vel sem dolor."
+    </string>
+    <string name="navbar_title" >GCU WORLD WEATHER FORCAST</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_home">Home</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="glasgow">Glasgow</string>
+    <string name="content">13</string>
+    <string name="degree">C</string>
+    <string name="title_activity_city">City</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="day_after">Day after Tomorrow</string>
+    <string name="dropdown" />
+    <string name="last_update">"Last updated today at: "</string>
+    <string name="temprature">13 C</string>
+    <string name="min_temp">Min Temp: 14 C (57 F)</string>
+    <string name="max_temp">Max Temp: 17 C (62 F)</string>
+    <string name="pressure">15</string>
+    <string name="rain_chance">9%</string>
+    <string name="humidity">Humidity:</string>
+    <string name="humidity_val">82%</string>
+    <string name="sunrise">Sunrise 04:50 </string>
+    <string name="sunset">Sunset 21:47</string>
+</resources>

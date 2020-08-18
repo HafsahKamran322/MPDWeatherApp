@@ -1,0 +1,17 @@
+<resources>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="margin_from_app_bar">140dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="divider">1dp</dimen>
+    <dimen name="scrolllist">0dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="appbar_padding_top">0dp</dimen>
+
+
+
+    <dimen name="row_height">100dp</dimen>
+</resources>
